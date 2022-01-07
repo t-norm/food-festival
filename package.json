@@ -1,0 +1,17 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU GPLv3.0",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "popper.js": "^1.16.0",
+    "save": "^2.4.0"
+  }
+}
